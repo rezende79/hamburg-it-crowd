@@ -45,10 +45,9 @@ On Google Maps:
 - https://goo.gl/maps/f2u4kScA2Kmr5U5E8
 
 ### Renting an apartment
-https://www.immobilienscout24.de/
+- https://www.immobilienscout24.de/
 
 ### IT Companies
 - https://www.cubic.com/
 - https://www.eos-uptrade.de/
 - https://www.localyzeapp.com/
-- 
