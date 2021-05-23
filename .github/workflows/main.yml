@@ -27,7 +27,4 @@ jobs:
 
       - name: Check 404 links
         uses: restqa/404-links@1.0.0
-        
-      - name: Check spelling
-        uses: check-spelling/check-spelling@v0.0.18
 
