@@ -38,7 +38,7 @@ https://www.hamburg.com/welcome/entry-residence/general-regulations/11725242/reg
 - Mobile phone plans: iPhone 11 8GB with a 24 month contract: EUR 36,99 * 2 person = EUR 73,98 [Blau](https://www.blau.de/e-shop/apple/apple-iphone-11-details)
 - Rent (living outside [zone A and B](https://www.hvv.de/en/plans)): up to EUR 900
 - Supermarket: up to EUR 400
-- *Total around:* EUR 1440,00
+- *Total:* around EUR 1440,00
 
 For more estimated costs, check [Numbeo](https://www.numbeo.com/cost-of-living/in/Hamburg).
 
