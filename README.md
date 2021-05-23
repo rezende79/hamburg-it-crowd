@@ -61,6 +61,10 @@ On Google Maps:
 - https://www.immobilienscout24.de/
 
 ### IT Companies
+- https://www.aboutyou.de/
+- https://jobs.check24.de/
 - https://www.cubic.com/
+- https://www.deptagency.com/
 - https://www.eos-uptrade.de/
+- https://www.leanatic.com/
 - https://www.localyzeapp.com/
