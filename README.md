@@ -33,6 +33,15 @@ https://www.hamburg.com/welcome/entry-residence/general-regulations/11725242/reg
 
 ## Living in Hamburg
 
+### Estimated monthly costs for two
+- Internet + TV for Home, fiber, 500Mbps: EUR 64,98 [Vodafone](https://zuhauseplus.vodafone.de/kombi-pakete/internet-telefon-tv/glasfaser/?icmp=kombi-angebote-neukunden:modul1:3:glasfaser-internet&tv)
+- Mobile phone plans: iPhone 11 8GB with a 24 month contract: EUR 36,99 * 2 person = EUR 73,98 [Blau](https://www.blau.de/e-shop/apple/apple-iphone-11-details)
+- Rent (living outside [zone A and B](https://www.hvv.de/en/plans)): up to EUR 900
+- Supermarket: up to EUR 400
+- *Total around:* EUR 1440,00
+
+For more estimated costs, check [Numbeo](https://www.numbeo.com/cost-of-living/in/Hamburg).
+
 ### Not so nice neighborhoods to live
 List of not so recommended neighborhoods:
 - Billstedt
