@@ -19,6 +19,7 @@ As soon as you arrive in Hamburg, buy a pre-paid SIM card from a telecommunicati
 Good options are:
 - https://www.simplytel.de/
 - https://www.vodafone.de/
+- https://www.blau.de
 
 #### 3. Register yourself into the city
 You should register your new address (Anmeldung) within two weeks after moving into your new home in Hamburg (this goes for any city in Germany). Everytime you move, even inside the same city, you need to register your new address.
