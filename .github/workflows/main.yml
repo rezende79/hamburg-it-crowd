@@ -25,6 +25,6 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
 
-      - name: Check links with linkcheck
-        uses: filiph/linkcheck@v2.0.15+1
+      - name: Check 404 links
+        uses: restqa/404-links@1.0.0
 
