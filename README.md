@@ -42,8 +42,8 @@ https://www.hamburg.com/welcome/entry-residence/general-regulations/11725242/reg
 
 For more estimated costs, check [Numbeo](https://www.numbeo.com/cost-of-living/in/Hamburg).
 
-### Not so nice neighborhoods to live
-List of not so recommended neighborhoods:
+### Not so nice/quiet neighborhoods to live
+List of not so recommended/quiet neighborhoods:
 - Billstedt
 - Borgfelde
 - Elbe
