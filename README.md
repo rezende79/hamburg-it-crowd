@@ -13,6 +13,13 @@ Rent an apartment before arriving into Hamburg on one of these websites (even th
 - https://wunderflats.com/
 - https://www.city-wohnen.de/
 
+The best choice would be hire a Gästewohnunguen (temporary flat) and apply to a Wohnanlagen (long period rent) at:
+- https://www.fluwog.de/service/gaestewohnungen/
+- https://www.fluwog.de/wohnen/wohnanlagen/
+
+There are more companies like Flugwog listed on Hamburger Wohnbaugenossenschaften website:
+- https://wohnungsbaugenossenschaften-hh.de/
+
 #### 2. Buy a pre-paid SIM card
 As soon as you arrive in Hamburg, buy a pre-paid SIM card from a telecommunications company. If you are planning to get internet and tv in the future in your next home, probably the best choice would be some big telecommunication company which could sell you a complete subscription including mobile phones, tv, and internet.
 
