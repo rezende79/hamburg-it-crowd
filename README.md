@@ -10,15 +10,19 @@ A good strategy is to rent a temporary apartment for three months, and use this 
 _Important: you should choose a flat which gives you a Wohnungsgeberbestätigung (landlord's confirmation of residence)._
 
 Rent an apartment before arriving into Hamburg on one of these websites (even these would require a deposit beforehand):
-- https://wunderflats.com/
-- https://www.city-wohnen.de/
 
-The best choice would be hire a Gästewohnunguen (temporary flat) and apply to a Wohnanlagen (long period rent) at:
+##### [Wunderflats](http://wunderflats.com/)
+
+If you want to rent an apartment on Wunderflats, you will need to apply for a bunch of them at the same time in order to get an effective booking. No one knows the reasons because some landlords declinate your booking, but the platform makes possible to you to book more than one flat each time, and only when the booking reservation is confirmed by the landlord you can confirm at your side.
+
+##### [City Whonen](https://www.city-wohnen.de/)
+
+It is the best option if you want a high quality flat and service. When you compare to Wunderflats, the price is almost the same. The process to rent an apartment there is quite simple: book your apartment, wait for the landlord confirmation, an agent will contact you y e-mail asking for your documents, you send them, receive the contract, sign, your landlord signs, and that is it.
+
+##### Wohnanlagen
+The another option would be hire a Gästewohnunguen (temporary flat) and apply to a Wohnanlagen (long period rent) at:
 - https://www.fluwog.de/service/gaestewohnungen/
 - https://www.fluwog.de/wohnen/wohnanlagen/
-
-There are more companies like Flugwog listed on Hamburger Wohnbaugenossenschaften website:
-- https://wohnungsbaugenossenschaften-hh.de/
 
 #### 2. Buy a pre-paid SIM card
 As soon as you arrive in Hamburg, buy a pre-paid SIM card from a telecommunications company. If you are planning to get internet and tv in the future in your next home, probably the best choice would be some big telecommunication company which could sell you a complete subscription including mobile phones, tv, and internet.
@@ -66,6 +70,7 @@ On Google Maps:
 
 ### Renting an apartment
 - https://www.immobilienscout24.de/
+- https://wohnungsbaugenossenschaften-hh.de/
 
 ### IT Companies
 - https://www.aboutyou.de/
