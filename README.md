@@ -74,7 +74,9 @@ On Google Maps:
 
 ### IT Companies
 - https://www.aboutyou.de/
+- https://www.bigpoint.net/
 - https://jobs.check24.de/
+- https://corporate.gamigo.com/
 - https://www.cubic.com/
 - https://www.deptagency.com/
 - https://www.eos-uptrade.de/
