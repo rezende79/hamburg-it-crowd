@@ -72,6 +72,10 @@ On Google Maps:
 - https://www.immobilienscout24.de/
 - https://wohnungsbaugenossenschaften-hh.de/
 
+### Renting a bike
+
+https://stadtrad.hamburg.de/en
+
 ### IT Companies
 - https://www.aboutyou.de/
 - https://www.bigpoint.net/
