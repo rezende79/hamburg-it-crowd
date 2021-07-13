@@ -10,6 +10,7 @@ A good strategy is to rent a temporary apartment for three months, and use this 
 > [Oficial database of translators and interpreters](https://www.justiz-dolmetscher.de/Recherche/en/Suchen)\
 > [FreeNow Ride](https://free-now.com/de-en/ride/)  
 > [English Pronunciation for Brazilian Portuguese Speakers](https://voiceklar.com/course/brazil/)
+> [GMX: E-Mail Adresse](https://www.gmx.net/)
 
 ### Steps
 #### 1. Rent a temporary apartment
