@@ -7,7 +7,8 @@ A good strategy is to rent a temporary apartment for three months, and use this 
 
 ## Useful links
 
-> [Oficial database of translators and interpreters](https://www.justiz-dolmetscher.de/Recherche/en/Suchen)
+> [Oficial database of translators and interpreters](https://www.justiz-dolmetscher.de/Recherche/en/Suchen)\
+> [FreeNow Ride](https://free-now.com/de-en/ride/)  
 
 ### Steps
 #### 1. Rent a temporary apartment
