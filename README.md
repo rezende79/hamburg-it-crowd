@@ -5,6 +5,10 @@ Find general information about Hamburg on Wikipedia https://en.wikipedia.org/wik
 ## Moving to Hamburg
 A good strategy is to rent a temporary apartment for three months, and use this time to find a suitable neighborhood and apartment for you. Moreover most of the landlords prefer to rent an apartment to someone who has at least three payslips issued by a German company. So, maybe you will stay for six months in a temporary apartment.
 
+## Useful links
+
+> [Oficial database of translators and interpreters](https://www.justiz-dolmetscher.de/Recherche/en/Suchen)
+
 ### Steps
 #### 1. Rent a temporary apartment
 _Important: you should choose a flat which gives you a Wohnungsgeberbestätigung (landlord's confirmation of residence)._
