@@ -99,3 +99,6 @@ https://stadtrad.hamburg.de/en
 ### Restaurants
 
 - https://www.grilledcheesewonderland.com/
+- https://onobysh.de/en/
+- https://www.tripadvisor.com/Restaurant_Review-g187331-d1097821-Reviews-Man_Wah-Hamburg.html
+- https://dimsumhaus.com.sg/
