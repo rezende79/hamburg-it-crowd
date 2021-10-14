@@ -42,6 +42,9 @@ Good options are:
 Could be needed to prove your identity to buy a SIM card. For that you will need to download this app:
 - https://www.deutschepost.de/en/p/postident/privatkunden/identifikation-per-videochat.html
 
+#### Pro-tip:
+After the Anmeldung you can go to a Media Markt store and find suitable internet mobile plans on some of companies' kiosk. For example, in October 2021, you could get two SIM-Cards with 5Gb of internet for each paying only EUR 26/month for both on a two years contract. You would receive receive a EUR 300 voucher to buy whatever you want inside Media Markt store.
+
 #### 3. Register yourself into the city
 You should register your new address (Anmeldung) within two weeks after moving into your new home in Hamburg (this goes for any city in Germany). Everytime you move, even inside the same city, you need to register your new address.
 
