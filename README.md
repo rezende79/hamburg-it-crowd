@@ -38,6 +38,7 @@ Good options are:
 - https://www.simplytel.de/
 - https://www.vodafone.de/
 - https://www.blau.de
+- https://www.mobilcom-debitel.de/
 
 Could be needed to prove your identity to buy a SIM card. For that you will need to download this app:
 - https://www.deutschepost.de/en/p/postident/privatkunden/identifikation-per-videochat.html
