@@ -61,6 +61,9 @@ https://www.hamburg.com/welcome/entry-residence/general-regulations/11725242/reg
 - Supermarket: up to EUR 400
 - *Total:* around EUR 1440,00
 
+#### Pro-tip:
+There is one Germany before going to Kaufland, and another Germany after going there. Kaufland is a supermaket with really cheap prices and good products. You can buy anything you want there and the supermarket bill for a couple will be lower than EUR 300/month for sure.
+
 For more estimated costs, check [Numbeo](https://www.numbeo.com/cost-of-living/in/Hamburg).
 
 ### Not so nice/quiet neighborhoods to live
