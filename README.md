@@ -53,6 +53,17 @@ Here is the website where you can get more information about the process:
 
 https://www.hamburg.com/welcome/entry-residence/general-regulations/11725242/registration/
 
+After the registration you will receive automatically at your address the Identificationsnummer.
+
+#### 4. Register yourself at ELSTER website (Finanz)
+
+With your Identificationsnummer and you email, you will have to register yourself into ELSTER website in order to change your Tax Class from the default to the proper one. For example, a couple where one works and the other don't is, by default, a IV/IV Tax Class, but the right one, should be III/V in order to avoid to pay more tax than needed.
+
+- Go to https://www.elster.de/eportal/start and click on "Benutzerkonto erstellen" button/link.
+- Follow the steps on screen and you will receive a letter with a code to download your personal digital certificate.
+- Any time you want to log in, you will need to upload that certificate and type your desired password.
+- After properly registered you will login into ELSTER and choose Alle Formulare and type "Steuerklassenwechsel" into filter field. Choose "Antrag auf Steuerklassenwechsel" and follow the steps on screen.
+
 ## Living in Hamburg
 
 ### Estimated monthly costs for two
