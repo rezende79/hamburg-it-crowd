@@ -99,7 +99,14 @@ On Google Maps:
 
 ### Renting a bike
 
-https://stadtrad.hamburg.de/en
+https://stadtrad.hamburg.de/en#
+
+## Driving school
+
+Getting a driver license in Germany is not an easy thing to do. So, nothing can suit better than a school which speaks your mother language ;) 
+
+- **Portuguese:**
+  - Fahrschule Wilhelmsburg 040 41921040 https://goo.gl/maps/7siFfVNsNbY3fEJ56
 
 ### IT Companies
 - https://www.aboutyou.de/
